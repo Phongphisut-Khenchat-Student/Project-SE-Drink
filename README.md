@@ -80,7 +80,7 @@ src/
 1. Ensure Java is installed on your system
 2. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/se-buu-drink.git
+git clone https://github.com/Phongphisut-Khenchat-Student/Project-SE-Drink.git
 ```
 3. Compile the Java files:
 ```bash
